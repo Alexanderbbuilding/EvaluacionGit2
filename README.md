@@ -6,7 +6,7 @@ Trabajo en el grupo completo, sobre un único repositorio remoto creado y compar
 
 ### Pasos sugeridos
 
-1. Cada estudiante clona el repositorio suministrado por el instructor: `git clone <url-del-instructor>`.
+1. Cada estudiante clona el repositorio suministrado por el instructor: `git clone https://github.com/Alexanderbbuilding/EvaluacionGit2`.
 2. Cada estudiante crea su propia rama independiente con un nombre identificable, por ejemplo `git checkout -b aporte-<nombre>`.
 3. Sobre su rama, cada estudiante agrega el documento establecido por el instructor (por ejemplo, un archivo con su nombre, aporte de lectura, o entregable indicado en clase) y lo confirma con un commit descriptivo.
 4. Cada estudiante sube su rama al remoto sin fusionarla todavía: `git push -u origin aporte-<nombre>`.

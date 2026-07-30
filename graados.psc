@@ -8,3 +8,5 @@ Algoritmo sin_titulo
 	
 	Escribir "Los grados Fahrenheit son: ", GradosFarenheit
 FinAlgoritmo
+// https://github.com/Combita-creator/evaluacionGIT.git
+// https://github.com/helianmoreno05-sudo/evaluacion.git

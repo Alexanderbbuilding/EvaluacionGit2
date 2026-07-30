@@ -1,0 +1,109 @@
+* [33m8fa56a8[m[33m ([m[1;32mLaura_cardenas[m[33m)[m ejecicio
+[31m|[m *   [33m99cdb08[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m Merge remote-tracking branch 'origin/aporte-kevinCardenas'
+[31m|[m [32m|[m[33m\[m  
+[31m|[m [32m|[m * [33m4160217[m[33m ([m[1;31morigin/aporte-kevinCardenas[m[33m)[m Aporte Area Triangulo kevinCardenas
+[31m|[m * [33m|[m   [33me87c541[m Merge remote-tracking branch 'origin/Aporte-Nayrelis-Rumbos'
+[31m|[m [34m|[m[35m\[m [33m\[m  
+[31m|[m [34m|[m * [33m|[m [33mcc3efe8[m[33m ([m[1;31morigin/Aporte-Nayrelis-Rumbos[m[33m)[m ejercicio 19-NayrelisRumbos-verificarPrimos
+[31m|[m * [35m|[m [33m|[m   [33m455f566[m Merge remote-tracking branch 'origin/Aporte-DarwinAcevedo'
+[31m|[m [36m|[m[1;31m\[m [35m\[m [33m\[m  
+[31m|[m [36m|[m * [35m|[m [33m|[m [33ma1032ea[m[33m ([m[1;31morigin/Aporte-DarwinAcevedo[m[33m)[m Ejercicio15-DarwinAcevedo-CalcularSueldo
+[31m|[m [36m|[m [35m|[m[35m/[m [33m/[m  
+[31m|[m * [35m|[m [33m|[m   [33m05fb8d2[m Merge remote-tracking branch 'origin/danielaR'
+[31m|[m [1;32m|[m[1;33m\[m [35m\[m [33m\[m  
+[31m|[m [1;32m|[m * [35m|[m [33m|[m [33md445053[m[33m ([m[1;31morigin/danielaR[m[33m)[m ejercico desarrollado July daniela riaño soto
+[31m|[m [1;32m|[m [35m|[m[35m/[m [33m/[m  
+[31m|[m * [35m|[m [33m|[m   [33m40ec356[m Merge remote-tracking branch 'origin/aporte-helian'
+[31m|[m [1;34m|[m[1;35m\[m [35m\[m [33m\[m  
+[31m|[m [1;34m|[m * [35m|[m [33m|[m [33mf798cb5[m[33m ([m[1;31morigin/aporte-helian[m[33m)[m Agrega aporte de Helian: archivo PSeInt del ejercicio
+[31m|[m * [1;35m|[m [35m|[m [33m|[m   [33m2cfacff[m Merge remote-tracking branch 'origin/aporte-derlin'
+[31m|[m [1;36m|[m[31m\[m [1;35m\[m [35m\[m [33m\[m  
+[31m|[m [1;36m|[m * [1;35m|[m [35m|[m [33m|[m [33mc9ff2d1[m[33m ([m[1;31morigin/aporte-derlin[m[33m)[m Agregar aporte de Derlin Caro
+[31m|[m * [31m|[m [1;35m|[m [35m|[m [33m|[m   [33mea6f903[m Merge remote-tracking branch 'origin/aporte-Eliana'
+[31m|[m [32m|[m[33m\[m [31m\[m [1;35m\[m [35m\[m [33m\[m  
+[31m|[m [32m|[m * [31m|[m [1;35m|[m [35m|[m [33m|[m [33m69a09ef[m[33m ([m[1;31morigin/aporte-Eliana[m[33m)[m Agregar Ejercicio3-Promediotresnotas
+[31m|[m [32m|[m [31m|[m[31m/[m [1;35m/[m [35m/[m [33m/[m  
+[31m|[m * [31m|[m [1;35m|[m [35m|[m [33m|[m   [33m1f0b6af[m Merge remote-tracking branch 'origin/aporte-Daniel-Salas'
+[31m|[m [34m|[m[35m\[m [31m\[m [1;35m\[m [35m\[m [33m\[m  
+[31m|[m [34m|[m * [31m|[m [1;35m|[m [35m|[m [33m|[m [33m0b8c7b8[m[33m ([m[1;31morigin/aporte-Daniel-Salas[m[33m)[m AporteAlgoritmoCalcularUnDescuentoDanielSalas
+[31m|[m [34m|[m [31m|[m[31m/[m [1;35m/[m [35m/[m [33m/[m  
+[31m|[m * [31m|[m [1;35m|[m [35m|[m [33m|[m   [33mae01bf0[m Merge remote-tracking branch 'origin/aporte-kevinCardenas'
+[31m|[m [36m|[m[33m\[m [31m\[m [1;35m\[m [35m\[m [33m\[m  
+[31m|[m [36m|[m [33m|[m [31m|[m[33m_[m[1;35m|[m[33m_[m[35m|[m[33m/[m  
+[31m|[m [36m|[m [33m|[m[33m/[m[31m|[m [1;35m|[m [35m|[m   
+[31m|[m [36m|[m * [31m|[m [1;35m|[m [35m|[m [33m03f330e[m Aporte Area Triangulo kevinCardenas
+[31m|[m [36m|[m [31m|[m[31m/[m [1;35m/[m [35m/[m  
+[31m|[m * [31m|[m [1;35m|[m [35m|[m   [33maf54f7c[m Merge remote-tracking branch 'origin/aporte-nicolas-saavedra'
+[31m|[m [35m|[m[1;33m\[m [31m\[m [1;35m\[m [35m\[m  
+[31m|[m [35m|[m [1;33m|[m[35m_[m[31m|[m[35m_[m[1;35m|[m[35m/[m  
+[31m|[m [35m|[m[35m/[m[1;33m|[m [31m|[m [1;35m|[m   
+[31m|[m [35m|[m * [31m|[m [1;35m|[m [33m9841bba[m[33m ([m[1;31morigin/aporte-nicolas-saavedra[m[33m)[m se sube aporte de ejercicio de calcular distancia
+[31m|[m [35m|[m [31m|[m[31m/[m [1;35m/[m  
+[31m|[m * [31m|[m [1;35m|[m   [33m107def3[m Merge remote-tracking branch 'origin/aporte-JuanPabloQuintero'
+[31m|[m [1;34m|[m[1;35m\[m [31m\[m [1;35m\[m  
+[31m|[m [1;34m|[m * [31m|[m [1;35m|[m [33m7c65afc[m[33m ([m[1;31morigin/aporte-JuanPabloQuintero[m[33m)[m Ejercicio 21 Pseint Juan Pablo Quintero
+[31m|[m * [1;35m|[m [31m|[m [1;35m|[m   [33mc686f8f[m Merge remote-tracking branch 'origin/aporte-JulianMorales'
+[31m|[m [1;36m|[m[31m\[m [1;35m\[m [31m\[m [1;35m\[m  
+[31m|[m [1;36m|[m * [1;35m\[m [31m\[m [1;35m\[m   [33md87b3b5[m[33m ([m[1;31morigin/aporte-JulianMorales[m[33m)[m Merge branch 'master' of https://github.com/Alexanderbbuilding/EvaluacionGit2 into aporte-JulianMorales
+[31m|[m [1;36m|[m [32m|[m[31m\[m [1;35m\[m [31m\[m [1;35m\[m  
+[31m|[m [1;36m|[m [32m|[m [31m|[m [1;35m|[m[31m/[m [1;35m/[m  
+[31m|[m [1;36m|[m [32m|[m [31m|[m[31m/[m[1;35m|[m [1;35m|[m   
+[31m|[m [1;36m|[m * [31m|[m [1;35m|[m [1;35m|[m [33m1d55d15[m Archivo Pseint Algoritmo N°10 Julian Morales
+[31m|[m * [33m|[m [31m|[m [1;35m|[m [1;35m|[m   [33m04a4300[m Merge remote-tracking branch 'origin/felipe'
+[31m|[m [31m|[m[35m\[m [33m\[m [31m\[m [1;35m\[m [1;35m\[m  
+[31m|[m [31m|[m [35m|[m[31m_[m[33m|[m[31m/[m [1;35m/[m [1;35m/[m  
+[31m|[m [31m|[m[31m/[m[35m|[m [33m|[m [1;35m|[m [1;35m|[m   
+[31m|[m [31m|[m * [33m|[m [1;35m|[m [1;35m|[m [33m5924bc0[m[33m ([m[1;31morigin/felipe[m[33m)[m Corrijo me error en poner un solo link
+[31m|[m * [35m|[m [33m|[m [1;35m|[m [1;35m|[m [33mb1bd859[m Carga Readme por ajuste
+[31m|[m * [35m|[m [33m|[m [1;35m|[m [1;35m|[m   [33m0875e22[m Merge remote-tracking branch 'origin/aporte-Alejandro'
+[31m|[m [36m|[m[1;31m\[m [35m\[m [33m\[m [1;35m\[m [1;35m\[m  
+[31m|[m [36m|[m * [35m|[m [33m|[m [1;35m|[m [1;35m|[m [33md507220[m[33m ([m[1;31morigin/aporte-Alejandro[m[33m)[m Aporte-Ejercicio contar digitos-Alejandro
+[31m|[m [36m|[m [33m|[m [35m|[m[33m/[m [1;35m/[m [1;35m/[m  
+[31m|[m [36m|[m [33m|[m[33m/[m[35m|[m [1;35m|[m [1;35m|[m   
+[31m|[m * [33m|[m [35m|[m [1;35m|[m [1;35m|[m   [33m12ee5de[m Merge remote-tracking branch 'origin/aporte-AndersonGutierrez'
+[31m|[m [1;32m|[m[1;33m\[m [33m\[m [35m\[m [1;35m\[m [1;35m\[m  
+[31m|[m [1;32m|[m * [33m|[m [35m|[m [1;35m|[m [1;35m|[m [33m422a454[m[33m ([m[1;31morigin/aporte-AndersonGutierrez[m[33m)[m Aporte verificar año bisisesto - Anderson Gutierrez
+[31m|[m [1;32m|[m [33m|[m[33m/[m [35m/[m [1;35m/[m [1;35m/[m  
+[31m|[m * [33m|[m [35m|[m [1;35m|[m [1;35m|[m   [33m34501aa[m Merge remote-tracking branch 'origin/aporte-20JhonJairoCorreaJaimes'
+[31m|[m [1;34m|[m[1;35m\[m [33m\[m [35m\[m [1;35m\[m [1;35m\[m  
+[31m|[m [1;34m|[m * [33m|[m [35m|[m [1;35m|[m [1;35m|[m [33m9cf0591[m[33m ([m[1;31morigin/aporte-20JhonJairoCorreaJaimes[m[33m)[m Agregar algoritmo 20 Jhon Correa
+[31m|[m [1;34m|[m [33m|[m[33m/[m [35m/[m [1;35m/[m [1;35m/[m  
+[31m|[m * [33m|[m [35m|[m [1;35m|[m [1;35m|[m   [33mfde7ac6[m Merge remote-tracking branch 'origin/aporte-8_Diego_Sepulveda'
+[31m|[m [1;36m|[m[31m\[m [33m\[m [35m\[m [1;35m\[m [1;35m\[m  
+[31m|[m [1;36m|[m * [33m|[m [35m|[m [1;35m|[m [1;35m|[m [33mfaa0337[m[33m ([m[1;31morigin/aporte-8_Diego_Sepulveda[m[33m)[m Agregar Algoritmo de Diego Alejandro
+[31m|[m [1;36m|[m [33m|[m[33m/[m [35m/[m [1;35m/[m [1;35m/[m  
+[31m|[m * [33m|[m [35m|[m [1;35m|[m [1;35m|[m   [33m601a2f2[m Merge remote-tracking branch 'origin/aporte-dayan-combita'
+[31m|[m [32m|[m[33m\[m [33m\[m [35m\[m [1;35m\[m [1;35m\[m  
+[31m|[m [32m|[m * [33m|[m [35m|[m [1;35m|[m [1;35m|[m [33m9af3013[m[33m ([m[1;31morigin/aporte-dayan-combita[m[33m)[m Pseint: agrega algoritmo de clasificacion de edad
+[31m|[m [32m|[m [33m|[m[33m/[m [35m/[m [1;35m/[m [1;35m/[m  
+[31m|[m * [33m|[m [35m|[m [1;35m|[m [1;35m|[m   [33mfea3b5b[m Merge remote-tracking branch 'origin/aporte-helian'
+[31m|[m [34m|[m[1;35m\[m [33m\[m [35m\[m [1;35m\[m [1;35m\[m  
+[31m|[m [34m|[m [1;35m|[m [33m|[m[1;35m_[m[35m|[m[1;35m_[m[1;35m|[m[1;35m/[m  
+[31m|[m [34m|[m [1;35m|[m[1;35m/[m[33m|[m [35m|[m [1;35m|[m   
+[31m|[m [34m|[m * [33m|[m [35m|[m [1;35m|[m [33md89e3c5[m Agrega aporte de Helian: archivo PSeInt del ejercicio
+[31m|[m [34m|[m [33m|[m[33m/[m [35m/[m [1;35m/[m  
+[31m|[m * [33m|[m [35m|[m [1;35m|[m   [33me8e8d5b[m Merge remote-tracking branch 'origin/aporte-santiagoRincon'
+[31m|[m [36m|[m[1;31m\[m [33m\[m [35m\[m [1;35m\[m  
+[31m|[m [36m|[m * [33m|[m [35m|[m [1;35m|[m [33m31c10b4[m[33m ([m[1;31morigin/aporte-santiagoRincon[m[33m)[m Ejercicio 2 Pseint Fredy Santiago Rincon
+[31m|[m [36m|[m [33m|[m[33m/[m [35m/[m [1;35m/[m  
+[31m|[m * [33m|[m [35m|[m [1;35m|[m   [33m43ee297[m Merge remote-tracking branch 'origin/aporte-JulianMorales'
+[31m|[m [1;32m|[m[1;33m\[m [33m\[m [35m\[m [1;35m\[m  
+[31m|[m [1;32m|[m * [33m|[m [35m|[m [1;35m|[m [33m4bdfb71[m Archivo Pseint Algoritmo N°10 Julian Morales
+[31m|[m [1;32m|[m [33m|[m[33m/[m [35m/[m [1;35m/[m  
+[31m|[m * [33m|[m [35m|[m [1;35m/[m [33m844a8c5[m Eliminacion carpeta no requerida
+[31m|[m [1;35m|[m [33m|[m[1;35m_[m[35m|[m[1;35m/[m  
+[31m|[m [1;35m|[m[1;35m/[m[33m|[m [35m|[m   
+[31m|[m * [33m|[m [35m|[m   [33mf53c2b7[m Merge remote-tracking branch 'origin/Laura_cardenas'
+[31m|[m [35m|[m[31m\[m [33m\[m [35m\[m  
+[31m|[m [35m|[m[31m/[m [33m/[m [35m/[m  
+[31m|[m[31m/[m[35m|[m [33m|[m [35m/[m   
+[31m|[m [35m|[m [33m|[m[35m/[m    
+[31m|[m [35m|[m[35m/[m[33m|[m     
+* [35m|[m [33m|[m [33m0fb73fb[m[33m ([m[1;31morigin/Laura_cardenas[m[33m)[m se preparo el ejercicio hecho en PSeInt
+* [35m|[m [33m|[m [33m50fb611[m se clona repositorio y se ingresa el usuario
+[33m|[m [35m|[m[33m/[m  
+[33m|[m[33m/[m[35m|[m   
+[33m|[m * [33m0c4e668[m se agrega el archivo del ejercicio Pselnt
+[33m|[m[33m/[m  
+* [33maa23df8[m Carga URL Repositorio Evaluación Git Ejercicio 2
+* [33m26fdf23[m Carga Inicial Evaluación Git Ejercicio 2

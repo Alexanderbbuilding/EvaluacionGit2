@@ -1,0 +1,9 @@
+Algoritmo AreaTrinagulo
+	Escribir "baseTriangulo :"
+	Leer B
+	Escribir "alturaTriangulo :"
+	leer A
+	resultado<-B*A/2
+	Escribir " resultadoArea: " (resultado)
+	
+FinAlgoritmo

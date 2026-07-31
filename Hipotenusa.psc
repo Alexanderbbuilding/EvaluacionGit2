@@ -1,5 +1,5 @@
 Algoritmo sin_titulo
-	Definir cateto1, cateto2, hipotenusa Como Real
+	Definir primerCatetoDigitado, segundoCatetoDigitado, hipotenusa Como Real
 		
 		Escribir "Ingrese la longitud del primer cateto:"
 		Leer primerCatetoDigitado

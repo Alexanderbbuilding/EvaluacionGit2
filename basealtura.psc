@@ -1,19 +1,19 @@
-Algoritmo sin_titulo
-	Escribir "bienvenidoUsuario"
-	Escribir " hallarBaseDeRectangulo "
-	Escribir "continuarMarca (1), siNoDeseasContinuarCualquierOtro"
-	Leer IngresoAlAlgoritmo
-	Si IngresoAlAlgoritmo > 1 Entonces
-		Escribir "hasFinalizadoProceso"
-	SiNo
-		Escribir "escribeBase"
-		Leer areaDelRectangulo
-		Escribir "escribeAltura"
-		Leer alturaDelRectangulo
-		Escribir "el resultado es ",areaDelRectangulo*alturaDelRectangulo
-	Fin Si
-	Escribir "procesoTerminado"
+Algoritmo sumaNumerosNaturales
+
+    Definir numeroN, sumaTotal, contador Como Entero
+
+    Escribir "Ingrese un numero:"
+    Leer numeroN
+
+    sumaTotal <- 0
+
+    Para contador <- 1 Hasta numeroN Hacer
+        sumaTotal <- sumaTotal + contador
+    FinPara
+
+    Escribir "La suma de los numeros naturales hasta ", numeroN, " es: ", sumaTotal
+
 FinAlgoritmo
 //evaluacion parte 1 https://github.com/Laura/CV3.git
-//evaluacion parte 2 https://github.com/Laura/CV3.git
+//evaluacion parte 2 https://github.com/Laura/evaluacionparte2.git
 

@@ -35,3 +35,6 @@ Algoritmo Promediotresnotas
 	
 	Escribir "El promedio total es: ", promDeNotas
 FinAlgoritmo
+
+// git eval1:https://github.com/eliVic07/Evaluacion1.git 
+//git eval2: https://github.com/eliVic07/Evaluacion2.git

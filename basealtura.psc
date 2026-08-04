@@ -14,3 +14,6 @@ Algoritmo sin_titulo
 	Fin Si
 	Escribir "proceso terminado"
 FinAlgoritmo
+//evaluacion parte 1 https://github.com/Laura/CV3.git
+//evaluacion parte 2 https://github.com/Laura/CV3.git
+

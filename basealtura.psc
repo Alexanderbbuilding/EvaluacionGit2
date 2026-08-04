@@ -1,18 +1,18 @@
 Algoritmo sin_titulo
-	Escribir "Bienvenido usuario"
-	Escribir "este algoritmo va a realizar el proceso de hallar la base de un rectangulo "
-	Escribir "si quieres continuar marca uno (1), si no deseas continuar y finalizar el proceso marque cualquier otro numero mayor a 1"
+	Escribir "bienvenidoUsuario"
+	Escribir " hallarBaseDeRectangulo "
+	Escribir "continuarMarca (1), siNoDeseasContinuarCualquierOtro"
 	Leer IngresoAlAlgoritmo
 	Si IngresoAlAlgoritmo > 1 Entonces
-		Escribir "has finalizado el proceso"
+		Escribir "hasFinalizadoProceso"
 	SiNo
-		Escribir "escribe la base"
-		Leer AreaDelRectangulo
-		Escribir "escribe la altura"
-		Leer AlturaDelRectangulo
-		Escribir "el resultado es ",AreaDelRectangulo*AlturaDelRectangulo
+		Escribir "escribeBase"
+		Leer areaDelRectangulo
+		Escribir "escribeAltura"
+		Leer alturaDelRectangulo
+		Escribir "el resultado es ",areaDelRectangulo*alturaDelRectangulo
 	Fin Si
-	Escribir "proceso terminado"
+	Escribir "procesoTerminado"
 FinAlgoritmo
 //evaluacion parte 1 https://github.com/Laura/CV3.git
 //evaluacion parte 2 https://github.com/Laura/CV3.git
